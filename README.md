@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL](https://your-solution-url.com)
-- Live Site URL: [live site URL](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/responsive-testimonial-grid-section-made-with-html-and-css-QwFKUOpq43)
+- Live Site URL: [live site URL](https://unnati-chaudhari.github.io/Testimonial-grid-section-main/)
 
 ## My process
 
