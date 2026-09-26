@@ -47,6 +47,6 @@ I learned css grid and also interchanging divs positions and learnt more about m
 ## Author
 
 - Frontend Mentor - [@Unnati-Chaudhari](https://www.frontendmentor.io/profile/Unnati-Chaudhari)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Github - [@Unnati-Chaudhari](https://github.com/Unnati-Chaudhari)
 
 
